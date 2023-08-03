@@ -1,0 +1,10 @@
+name: bde
+channels:
+  - defaults
+dependencies:
+  - notebook=6.5.4
+  - python=3.10
+  - pip:
+      - pymongo==4.4.1
+      - redis==4.6.0
+prefix: /Users/zanelim/miniconda3/envs/bde
