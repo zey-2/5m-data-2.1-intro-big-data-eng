@@ -9,9 +9,14 @@ dependencies:
   - pyarrow=11.0.0
   - python=3.10
   - python-snappy=0.6.1
+  - matplotlib=3.7.1
+  - sqlalchemy=1.4.39
   - pip:
       - pymongo==4.4.1
       - redis==4.6.0
       - thriftpy2==0.4.16
       - fastavro==1.8.2
+      - requests==2.31.0
+      - duckdb==0.8.1
+      - duckdb-engine==0.9.2
 prefix: /Users/zanelim/miniconda3/envs/bde
