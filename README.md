@@ -28,22 +28,20 @@ Learners will be able to:
   - OLTP vs OLAP
   - data mart vs data warehouse vs data lake
   - batch vs streaming
-- Perform CRUD (Create, Read, Update, Delete) operations on NoSQL databases
-  - MongoDB
-  - redis
+- Perform CRUD (Create, Read, Update, Delete) operations on mongodb.
 
 ## Lesson Plan
 
-| Duration | What                    | How or Why                                                   |
-| -------- | ----------------------- | ------------------------------------------------------------ |
-| - 5mins  | Start zoom session      | So that learners can join early and start class on time.     |
-| 20 mins  | Activity                | Recap on self-study and prework materials.                   |
-| 40 mins  | Concept                 | Part 1: Introduction to big data.                            |
+| Duration | What                    | How or Why                                               |
+| -------- | ----------------------- | -------------------------------------------------------- |
+| - 5mins  | Start zoom session      | So that learners can join early and start class on time. |
+| 20 mins  | Activity                | Recap on self-study and prework materials.               |
+| 40 mins  | Concept                 | Part 1: Introduction to big data.                        |
 |          | **1 HR MARK**           |
-| 40 mins  | Concept                 | Part 2: Introduction to data engineering.                    |
-| 10 mins  | Break                   |                                                              |
-| 10 mins  | Code-along              | Part 3: Introduction to NoSQL databases (MongoDB and redis). |
+| 30 mins  | Concept                 | Part 2: Introduction to data engineering.                |
+| 10 mins  | Break                   |                                                          |
+| 20 mins  | Code-along              | Part 3: Hands-on with mongodb.                           |
 |          | **2 HR MARK**           |
-| 50 mins  | Code-along              | Part 3: Introduction to NoSQL databases (MongoDB and redis). |
-| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.               |
+| 50 mins  | Code-along              | Part 3: Hands-on with mongodb.                           |
+| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.           |
 |          | **END CLASS 3 HR MARK** |

@@ -12,6 +12,7 @@ dependencies:
   - matplotlib=3.7.1
   - sqlalchemy=1.4.39
   - pip:
+      - google-cloud-storage==2.10.0
       - pymongo==4.4.1
       - redis==4.6.0
       - thriftpy2==0.4.16

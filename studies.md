@@ -2,7 +2,7 @@
 
 ## Brief
 
-In this lesson, we will be learning about the concept of big data and data engineering. We will also explore 2 popular NoSQL databases- MongoDB and redis, and how to perform CRUD operations on them.
+In this lesson, we will be learning about the concept of big data and data engineering. We will also explore one of the most popular NoSQL databases- MongoDB, and how to perform CRUD operations.
 
 ### Big Data
 

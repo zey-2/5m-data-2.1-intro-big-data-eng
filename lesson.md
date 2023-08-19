@@ -8,7 +8,7 @@ Create the conda environment based on the `environment.yml` file.
 
 ### Lesson Overview
 
-This lesson introduces the concept of big data and data engineering. It also introduces 2 popular NoSQL databases- MongoDB and redis, and how to perform CRUD operations on them.
+This lesson introduces the concept of big data and data engineering. It also introduces one of the most popular NoSQL databases- MongoDB, and how to perform CRUD operations.
 
 ---
 
@@ -24,7 +24,7 @@ Conceptual knowledge, refer to slides.
 
 ---
 
-## Part 3 - Introduction to NoSQL databases
+## Part 3 - Hands-on with MongoDB
 
 We will be using the `notebooks/nosql_lesson.ipynb` notebook throughout this lesson.
 
