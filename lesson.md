@@ -4,7 +4,15 @@
 
 ### Preparation
 
-Create the conda environment based on the `environment.yml` file.
+Install conda environments required for the rest of module. Go to the `environments` folder and create the conda environments based on the `environment.yml` file. Each `yml` file is prefixed with the environment name. 
+
+For example, to create the `bde` environment:
+
+`conda env create --file bde-environment.yml`
+
+To replace an existing environment:
+
+`conda env update --file bde-environment.yml --prune`
 
 ### Lesson Overview
 
