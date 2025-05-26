@@ -14,6 +14,15 @@ To replace an existing environment:
 
 `conda env update --file bde-environment.yml --prune`
 
+### For Windows WSL Users
+
+If you get an error message when creating the `bde` environment, e.g.
+> ERROR: Could not build wheels for thriftpy2, which is required to install pyproject.toml-based projects.
+
+Run the following CLI command from your terminal:
+
+`sudo apt install build-essential`
+
 ### Lesson Overview
 
 This lesson introduces the concept of big data and data engineering. It also introduces one of the most popular NoSQL databases- MongoDB, and how to perform CRUD operations.
